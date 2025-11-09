@@ -27,3 +27,16 @@ Quantum Error Correction Control Emulator project, mimics how a real QEC control
 
 ### Learning Resources
 - Qiskit documentation: https://qiskit.org/documentation/
+
+## Quantum Error Correction Circuits
+
+### Bit-Flip Code
+<img src="utils/docs/quantum_circuit_bit_flip_qec.png" width="80%">
+
+### Phase-Flip Code
+<img src="utils/docs/quantum_circuit_phase_flip_qec.png" width="80%">
+
+## To Do:
+
+- [ ] Add Shor's 9-Qubit Code
+- [ ] Add Surface Code
